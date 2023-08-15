@@ -36,5 +36,5 @@
 
 ### **Stacks**
 
-- Backend: NodeJS (using ExpressJS or Koa) or Python (using Django). Use other helping libraries.
-- Database: PostgreSQL or MongoDB
+- Backend: NodeJS (using ExpressJS) 
+- Database: MongoDB
