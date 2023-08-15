@@ -6,10 +6,6 @@
     - INPUT: Email, Password
     - RETURN: JWT token
     
-    <aside>
-    ➡️ **NOTE:** Use dummy email & password for authentication. No need to create endpoint for registering new user.
-    
-    </aside>
     
 - POST /api/follow/{id} authenticated user would follow user with {id}
 - POST /api/unfollow/{id} authenticated user would unfollow a user with {id}
